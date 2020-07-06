@@ -1,0 +1,16 @@
+Metrics Window ends
+Network Name:STANDARD
+Metrics XML Reading Start:-----
+Metrics XML Reading End:-----
+1720.0
+Width 842.8 Height 507.59999999999997
+Epsilon Value for "Link_1_Throughput_Graph" is :1.1153369823648606E-4
+Epsilon Value for "App1_SENSOR_APP_Throughput_Graph" is :6.534090867553549E-6
+Metrics Window ends
+Network Name:STANDARD
+Metrics XML Reading Start:-----
+Metrics XML Reading End:-----
+1720.0
+Width 842.8 Height 507.59999999999997
+Epsilon Value for "Link_1_Throughput_Graph" is :4.6225847574963663E-4
+Epsilon Value for "App1_SENSOR_APP_Throughput_Graph" is :8.051846345547762E-7

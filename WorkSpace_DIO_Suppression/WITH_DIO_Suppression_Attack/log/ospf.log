@@ -1,0 +1,310 @@
+Device 8, Interface 2 is now UP
+
+Device 9, Interface 1 is now UP
+
+Interface state changed to P2P from DOWN
+Interface state changed to P2P from DOWN
+Device 8, Interface 2 is now UP
+
+Device 9, Interface 1 is now UP
+
+Neighbor(11.2.1.1) state changed to DOWN from DOWN
+Setting OSPF_HelloReceived event and calling.
+Time 0.0101, Router 9, interface 1 (11.2.1.2) HelloReceived event triggered for neighbor 11.2.1.1
+Neighbor(11.2.1.1) state changed to Init from DOWN
+Adding Inactivity timer at time 40000.0101
+
+
+Setting OSPF_1Way event and calling.
+Time 0.0101, Router 9, Interface 1 (11.2.1.2) 1-way event is triggered for neighbor 11.2.1.1
+
+
+Neighbor(11.2.1.2) state changed to DOWN from DOWN
+Setting OSPF_HelloReceived event and calling.
+Time 0.0101, Router 8, interface 2 (11.2.1.1) HelloReceived event triggered for neighbor 11.2.1.2
+Neighbor(11.2.1.2) state changed to Init from DOWN
+Adding Inactivity timer at time 40000.0101
+
+
+Setting OSPF_1Way event and calling.
+Time 0.0101, Router 8, Interface 2 (11.2.1.1) 1-way event is triggered for neighbor 11.2.1.2
+
+
+Router 8, Increment Age event is triggered at time 1000.000
+Router 9, Increment Age event is triggered at time 1000.000
+Router 8, Increment Age event is triggered at time 2000.000
+Router 9, Increment Age event is triggered at time 2000.000
+Router 8, Increment Age event is triggered at time 3000.000
+Router 9, Increment Age event is triggered at time 3000.000
+Router 8, Increment Age event is triggered at time 4000.000
+Router 9, Increment Age event is triggered at time 4000.000
+Router 8, Increment Age event is triggered at time 5000.000
+Router 9, Increment Age event is triggered at time 5000.000
+Router 8, Increment Age event is triggered at time 6000.000
+Router 9, Increment Age event is triggered at time 6000.000
+Router 8, Increment Age event is triggered at time 7000.000
+Router 9, Increment Age event is triggered at time 7000.000
+Router 8, Increment Age event is triggered at time 8000.000
+Router 9, Increment Age event is triggered at time 8000.000
+Router 8, Increment Age event is triggered at time 9000.000
+Router 9, Increment Age event is triggered at time 9000.000
+Router 8, Increment Age event is triggered at time 10000.000
+Router 9, Increment Age event is triggered at time 10000.000
+Setting OSPF_HelloReceived event and calling.
+Time 10000.0104, Router 9, interface 1 (11.2.1.2) HelloReceived event triggered for neighbor 11.2.1.1
+
+
+Setting OSPF_2WayReceived event and calling.
+Time 10000.0104: Router 9, interface 1 (11.2.1.2) 2-Way received event triggered for neighbor 11.2.1.1
+Neighbor state is Init
+Adjacency is required
+Neighbor(11.2.1.1) state changed to ExStart from Init
+First time adjacency is attempted. Declaring itself as master.
+New DD seq no is 10000
+Start sending DD msg
+Time 10000.0104, Router 9, interface 1 (11.2.1.2), Sending DD msg to neighbor 11.2.1.1
+Neighbor state is ExStart
+
+
+
+
+Setting OSPF_HelloReceived event and calling.
+Time 10000.0104, Router 8, interface 2 (11.2.1.1) HelloReceived event triggered for neighbor 11.2.1.2
+
+
+Setting OSPF_2WayReceived event and calling.
+Time 10000.0104: Router 8, interface 2 (11.2.1.1) 2-Way received event triggered for neighbor 11.2.1.2
+Neighbor state is Init
+Adjacency is required
+Neighbor(11.2.1.2) state changed to ExStart from Init
+First time adjacency is attempted. Declaring itself as master.
+New DD seq no is 10000
+Start sending DD msg
+Time 10000.0104, Router 8, interface 2 (11.2.1.1), Sending DD msg to neighbor 11.2.1.2
+Neighbor state is ExStart
+
+
+
+
+Time 10000.0196 ms, Router 8 interface 2 (11.2.1.1) received DD msg from neighbor 11.2.1.2
+Neighbor state is ExStart
+I am now slave.
+Setting OSPF_NegotiationDone event and calling.
+Time 10000.0196, Router 8, Interface 2 (11.2.1.1), OSPF_NegotiationDone event is triggered for neighbor 11.2.1.2
+Neighbor state is ExStart
+Neighbor(11.2.1.2) state changed to Exchange from ExStart
+Creating DB summary list
+
+Processing DD msg
+I am slave. Sending DD msg
+
+
+Time 10000.0196 ms, Router 9 interface 1 (11.2.1.2) received DD msg from neighbor 11.2.1.1
+Neighbor state is ExStart
+Neither master nor slave. Who i am? Ignoring DD msg.
+
+
+Time 10000.0304 ms, Router 9 interface 1 (11.2.1.2) received DD msg from neighbor 11.2.1.1
+Neighbor state is ExStart
+I am now master.
+Setting OSPF_NegotiationDone event and calling.
+Time 10000.0304, Router 9, Interface 1 (11.2.1.2), OSPF_NegotiationDone event is triggered for neighbor 11.2.1.1
+Neighbor state is ExStart
+Neighbor(11.2.1.1) state changed to Exchange from ExStart
+Creating DB summary list
+
+Processing DD msg
+Adding LSA to request list
+More bit is set. Sending DD msg
+
+
+Time 10000.0411 ms, Router 8 interface 2 (11.2.1.1) received DD msg from neighbor 11.2.1.2
+Neighbor state is Exchange
+Processing DD msg
+Adding LSA to request list
+I am slave. Sending DD msg
+Scheduling event Exchange_Done
+
+
+Time 10000.0411, Router 8, Interface 2 (11.2.1.1), OSPF_ExchangeDone event is triggered for neighbor 11.2.1.2
+Neighbor state is Exchange
+Neighbor LSR is not empty
+Neighbor(11.2.1.2) state changed to Loading from Exchange
+
+Time 10000.0503 ms, Router 9 interface 1 (11.2.1.2) received DD msg from neighbor 11.2.1.1
+Neighbor state is Exchange
+Processing DD msg
+Scheduling event Exchange_Done
+
+
+Time 10000.0503, Router 9, Interface 1 (11.2.1.2), OSPF_ExchangeDone event is triggered for neighbor 11.2.1.1
+Neighbor state is Exchange
+Neighbor LSR is not empty
+Neighbor(11.2.1.1) state changed to Loading from Exchange
+
+Router 8, LSU packet received from source 11.2.1.2
+1 LSA received in LSU packet
+Processing 1 LSA of type ROUTER_LSA.
+Received LSA is more recent or no current Database copy exist
+
+Setting OSPF_LoadingDone event and calling.
+Router 8, LoadingDone event is triggeredNeighbor () state move up to Full
+Neighbor(11.2.1.2) state changed to Full from Loading
+Setting OSPF_LoadingDone event and calling.
+
+Router 9, LSU packet received from source 11.2.1.1
+2 LSA received in LSU packet
+Processing 1 LSA of type ROUTER_LSA.
+Received LSA is more recent or no current Database copy exist
+
+Setting OSPF_LoadingDone event and calling.
+Router 9, LoadingDone event is triggeredNeighbor () state move up to Full
+Neighbor(11.2.1.1) state changed to Full from Loading
+Processing 2 LSA of type ROUTER_LSA.
+Received LSA is more recent or no current Database copy exist
+
+	LSA found in LSDB
+    advertisingRouter 11.2.1.1 linkStateID 11.2.1.1
+Received LSA is more recent, but arrives before minLSInterval. So don't update LSDB
+Setting OSPF_LoadingDone event and calling.
+
+Router 8, Increment Age event is triggered at time 11000.000
+Router 9, Increment Age event is triggered at time 11000.000
+Router 9, Time 11031.771: Receive LSACK from neighbor 11.2.1.1
+Router 8, Time 11940.359: Receive LSACK from neighbor 11.2.1.2
+Router 8, Increment Age event is triggered at time 12000.000
+Router 9, Increment Age event is triggered at time 12000.000
+Router 8, Increment Age event is triggered at time 13000.000
+Router 9, Increment Age event is triggered at time 13000.000
+Router 8, Increment Age event is triggered at time 14000.000
+Router 9, Increment Age event is triggered at time 14000.000
+Router 8, Increment Age event is triggered at time 15000.000
+Router 9, Increment Age event is triggered at time 15000.000
+Rxmt Timer is expired
+Seq number is 1
+No packet to retransmit. Ignore
+Rxmt Timer is expired
+Seq number is 1
+No packet to retransmit. Ignore
+Router 8, LSU packet received from source 11.2.1.2
+1 LSA received in LSU packet
+Processing 1 LSA of type ROUTER_LSA.
+Received LSA is more recent or no current Database copy exist
+
+	LSA found in LSDB
+    advertisingRouter 11.2.1.2 linkStateID 11.2.1.2
+Setting OSPF_LoadingDone event and calling.
+
+Router 8, Increment Age event is triggered at time 16000.000
+Router 9, Increment Age event is triggered at time 16000.000
+Router 8, Increment Age event is triggered at time 17000.000
+Router 9, Increment Age event is triggered at time 17000.000
+Router 9, Time 17076.122: Receive LSACK from neighbor 11.2.1.1
+Router 9: Removing LSA with seqno 0x80000002 from rext list of nbr 
+        Type = ROUTER_LSA, ID = 11.2.1.2, advRtr = 11.2.1.2, age = 0
+Router 8, Increment Age event is triggered at time 18000.000
+Router 9, Increment Age event is triggered at time 18000.000
+Router 8, Increment Age event is triggered at time 19000.000
+Router 9, Increment Age event is triggered at time 19000.000
+Router 8, Increment Age event is triggered at time 20000.000
+Router 9, Increment Age event is triggered at time 20000.000
+Setting OSPF_HelloReceived event and calling.
+Time 20000.0104, Router 9, interface 1 (11.2.1.2) HelloReceived event triggered for neighbor 11.2.1.1
+
+
+Setting OSPF_2WayReceived event and calling.
+Time 20000.0104: Router 9, interface 1 (11.2.1.2) 2-Way received event triggered for neighbor 11.2.1.1
+
+
+Setting OSPF_HelloReceived event and calling.
+Time 20000.0104, Router 8, interface 2 (11.2.1.1) HelloReceived event triggered for neighbor 11.2.1.2
+
+
+Setting OSPF_2WayReceived event and calling.
+Time 20000.0104: Router 8, interface 2 (11.2.1.1) 2-Way received event triggered for neighbor 11.2.1.2
+
+
+Router 8, Increment Age event is triggered at time 21000.000
+Router 9, Increment Age event is triggered at time 21000.000
+Router 8, Increment Age event is triggered at time 22000.000
+Router 9, Increment Age event is triggered at time 22000.000
+Router 8, Increment Age event is triggered at time 23000.000
+Router 9, Increment Age event is triggered at time 23000.000
+Router 8, Increment Age event is triggered at time 24000.000
+Router 9, Increment Age event is triggered at time 24000.000
+Router 8, Increment Age event is triggered at time 25000.000
+Router 9, Increment Age event is triggered at time 25000.000
+Router 8, Increment Age event is triggered at time 26000.000
+Router 9, Increment Age event is triggered at time 26000.000
+Router 8, Increment Age event is triggered at time 27000.000
+Router 9, Increment Age event is triggered at time 27000.000
+Router 8, Increment Age event is triggered at time 28000.000
+Router 9, Increment Age event is triggered at time 28000.000
+Router 8, Increment Age event is triggered at time 29000.000
+Router 9, Increment Age event is triggered at time 29000.000
+Router 8, Increment Age event is triggered at time 30000.000
+Router 9, Increment Age event is triggered at time 30000.000
+Setting OSPF_HelloReceived event and calling.
+Time 30000.0104, Router 9, interface 1 (11.2.1.2) HelloReceived event triggered for neighbor 11.2.1.1
+
+
+Setting OSPF_2WayReceived event and calling.
+Time 30000.0104: Router 9, interface 1 (11.2.1.2) 2-Way received event triggered for neighbor 11.2.1.1
+
+
+Setting OSPF_HelloReceived event and calling.
+Time 30000.0104, Router 8, interface 2 (11.2.1.1) HelloReceived event triggered for neighbor 11.2.1.2
+
+
+Setting OSPF_2WayReceived event and calling.
+Time 30000.0104: Router 8, interface 2 (11.2.1.1) 2-Way received event triggered for neighbor 11.2.1.2
+
+
+Router 8, Increment Age event is triggered at time 31000.000
+Router 9, Increment Age event is triggered at time 31000.000
+Router 8, Increment Age event is triggered at time 32000.000
+Router 9, Increment Age event is triggered at time 32000.000
+Router 8, Increment Age event is triggered at time 33000.000
+Router 9, Increment Age event is triggered at time 33000.000
+Router 8, Increment Age event is triggered at time 34000.000
+Router 9, Increment Age event is triggered at time 34000.000
+Router 8, Increment Age event is triggered at time 35000.000
+Router 9, Increment Age event is triggered at time 35000.000
+Router 8, Increment Age event is triggered at time 36000.000
+Router 9, Increment Age event is triggered at time 36000.000
+Router 8, Increment Age event is triggered at time 37000.000
+Router 9, Increment Age event is triggered at time 37000.000
+Router 8, Increment Age event is triggered at time 38000.000
+Router 9, Increment Age event is triggered at time 38000.000
+Router 8, Increment Age event is triggered at time 39000.000
+Router 9, Increment Age event is triggered at time 39000.000
+Router 8, Increment Age event is triggered at time 40000.000
+Router 9, Increment Age event is triggered at time 40000.000
+Time 40000.0101, Router 9, Interface 1 (11.2.1.2), OSPF_InactivityTimer event is triggered for neighbor 11.2.1.1.
+Neighbor is active
+Adding Inactivity timer at time 70000.0104
+
+Time 40000.0101, Router 8, Interface 2 (11.2.1.1), OSPF_InactivityTimer event is triggered for neighbor 11.2.1.2.
+Neighbor is active
+Adding Inactivity timer at time 70000.0104
+
+Setting OSPF_HelloReceived event and calling.
+Time 40000.0104, Router 9, interface 1 (11.2.1.2) HelloReceived event triggered for neighbor 11.2.1.1
+
+
+Setting OSPF_2WayReceived event and calling.
+Time 40000.0104: Router 9, interface 1 (11.2.1.2) 2-Way received event triggered for neighbor 11.2.1.1
+
+
+Setting OSPF_HelloReceived event and calling.
+Time 40000.0104, Router 8, interface 2 (11.2.1.1) HelloReceived event triggered for neighbor 11.2.1.2
+
+
+Setting OSPF_2WayReceived event and calling.
+Time 40000.0104: Router 8, interface 2 (11.2.1.1) 2-Way received event triggered for neighbor 11.2.1.2
+
+
+Router 8, Increment Age event is triggered at time 41000.000
+Router 9, Increment Age event is triggered at time 41000.000
+Router 8, Increment Age event is triggered at time 42000.000
+Router 9, Increment Age event is triggered at time 42000.000

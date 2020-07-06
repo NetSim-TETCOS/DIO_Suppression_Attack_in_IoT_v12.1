@@ -1,0 +1,2 @@
+Vertex	 Distance	Path
+10 -> 8 		 100		10:1;8:2;

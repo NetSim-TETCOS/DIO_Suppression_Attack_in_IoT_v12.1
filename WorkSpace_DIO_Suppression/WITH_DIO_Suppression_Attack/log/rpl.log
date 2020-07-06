@@ -1,0 +1,1032 @@
+node '8',Time '200.000 ms': resetting trickle timer
+node '8': trickle time is generated at t=16.803, i=24.00
+node '1': received a new/modified message from node '8' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '1': was isolated, now found dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '1',Time '8.769 ms': resetting trickle timer
+node '1': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 15, parents = [(8)], siblings = []
+node '2': received a new/modified message from node '8' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '2': was isolated, now found dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '2',Time '8.769 ms': resetting trickle timer
+node '2': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 14, parents = [(8)], siblings = []
+node '3': received a new/modified message from node '8' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '3': was isolated, now found dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '3',Time '8.769 ms': resetting trickle timer
+node '3': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 15, parents = [(8)], siblings = []
+node '5': received a new/modified message from node '8' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '5': was isolated, now found dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '5',Time '8.769 ms': resetting trickle timer
+node '5': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 16, parents = [(8)], siblings = []
+Node '8',15.137ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway= FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+node '1': trickle time is generated at t=30.330, i=32.77
+node '2': trickle time is generated at t=28.811, i=32.77
+node '3': trickle time is generated at t=29.128, i=32.77
+node '5': trickle time is generated at t=31.369, i=32.77
+node '4': received a new/modified message from node '5' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '4': was isolated, now found dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '4',Time '17.986 ms': resetting trickle timer
+node '4': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 31, parents = [(5)], siblings = []
+node '6': received a new/modified message from node '5' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '6': was isolated, now found dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '6',Time '17.986 ms': resetting trickle timer
+node '6': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 30, parents = [(5)], siblings = []
+node '7': received a new/modified message from node '5' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '7': was isolated, now found dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '7',Time '17.986 ms': resetting trickle timer
+node '7': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 29, parents = [(5)], siblings = []
+node '4': received a new/modified message from node '1' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '4': '1' sent a modified DIO message and is a member of dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', reevaluating our neighbors
+node '4': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 28, parents = [5, (1)], siblings = []
+node '4': in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', updated dodag config (i_min = 3, i_doublings = 20, c_treshold = 6, max_rank_inc = 0, min_hop_rank_inc = 0)
+node '4',Time '20.195 ms': resetting trickle timer
+node '7': received a new/modified message from node '1' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '7': '1' sent a modified DIO message and is a member of dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', reevaluating our neighbors
+node '7': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 29, parents = [(5), 1], siblings = []
+node '7': in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', updated dodag config (i_min = 3, i_doublings = 20, c_treshold = 6, max_rank_inc = 0, min_hop_rank_inc = 0)
+node '7',Time '20.195 ms': resetting trickle timer
+node '6': received a new/modified message from node '3' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '6': '3' sent a modified DIO message and is a member of dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', reevaluating our neighbors
+node '6': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 29, parents = [5, (3)], siblings = []
+node '6': in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', updated dodag config (i_min = 3, i_doublings = 20, c_treshold = 6, max_rank_inc = 0, min_hop_rank_inc = 0)
+node '6',Time '20.515 ms': resetting trickle timer
+node '8': trickle time is generated at t=42.187, i=56.00
+Node '5',24.516ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway= FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+node '4': trickle time is generated at t=36.971, i=44.20
+node '7': trickle time is generated at t=43.165, i=44.20
+node '6': trickle time is generated at t=37.443, i=44.52
+Node '3',29.574ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway= FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',29.797ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway= FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+node '1': trickle time is generated at t=59.785, i=64.77
+node '2': trickle time is generated at t=61.869, i=64.77
+node '3': trickle time is generated at t=54.504, i=64.77
+node '5': trickle time is generated at t=63.546, i=64.77
+Node '8',42.692ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway= FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+node '7': received a new/modified message from node '4' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '7': '4' sent a modified DIO message and is a member of dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', reevaluating our neighbors
+node '7': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 29, parents = [(5), 1, 4], siblings = []
+node '7': in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', updated dodag config (i_min = 3, i_doublings = 20, c_treshold = 6, max_rank_inc = 0, min_hop_rank_inc = 0)
+node '7',Time '42.760 ms': resetting trickle timer
+node '4': trickle time is generated at t=67.908, i=76.19
+node '6': trickle time is generated at t=74.797, i=76.52
+node '1': received a new/modified message from node '2' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '1': '2' sent a modified DIO message and is a member of dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', reevaluating our neighbors
+node '1': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 15, parents = [(8), 2], siblings = []
+node '1': in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', updated dodag config (i_min = 3, i_doublings = 20, c_treshold = 6, max_rank_inc = 0, min_hop_rank_inc = 0)
+node '1',Time '45.289 ms': resetting trickle timer
+node '3': received a new/modified message from node '2' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '3': '2' sent a modified DIO message and is a member of dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', reevaluating our neighbors
+node '3': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 15, parents = [(8), 2], siblings = []
+node '3': in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', updated dodag config (i_min = 3, i_doublings = 20, c_treshold = 6, max_rank_inc = 0, min_hop_rank_inc = 0)
+node '3',Time '45.289 ms': resetting trickle timer
+node '4': received a new/modified message from node '2' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '4': '2' sent a modified DIO message and is a member of dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', reevaluating our neighbors
+node '4': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 28, parents = [5, (1), 2], siblings = []
+node '4': in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', updated dodag config (i_min = 3, i_doublings = 20, c_treshold = 6, max_rank_inc = 0, min_hop_rank_inc = 0)
+node '4',Time '45.289 ms': resetting trickle timer
+node '5': received a new/modified message from node '2' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '5': '2' sent a modified DIO message and is a member of dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', reevaluating our neighbors
+node '5': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 16, parents = [(8), 2], siblings = []
+node '5': in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', updated dodag config (i_min = 3, i_doublings = 20, c_treshold = 6, max_rank_inc = 0, min_hop_rank_inc = 0)
+node '5',Time '45.289 ms': resetting trickle timer
+node '6': received a new/modified message from node '2' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '6': '2' sent a modified DIO message and is a member of dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', reevaluating our neighbors
+node '6': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 29, parents = [5, (3), 2], siblings = []
+node '6': in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', updated dodag config (i_min = 3, i_doublings = 20, c_treshold = 6, max_rank_inc = 0, min_hop_rank_inc = 0)
+node '6',Time '45.289 ms': resetting trickle timer
+node '7': received a new/modified message from node '2' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '7': '2' sent a modified DIO message and is a member of dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', reevaluating our neighbors
+node '7': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 29, parents = [(5), 1, 4, 2], siblings = []
+node '7': in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', updated dodag config (i_min = 3, i_doublings = 20, c_treshold = 6, max_rank_inc = 0, min_hop_rank_inc = 0)
+node '7',Time '45.289 ms': resetting trickle timer
+Node '8',47.689ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway= FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',47.689ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway= FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+node '1': trickle time is generated at t=62.732, i=69.29
+node '3': trickle time is generated at t=62.432, i=69.29
+node '4': trickle time is generated at t=68.916, i=69.29
+node '5': trickle time is generated at t=64.754, i=69.29
+node '6': trickle time is generated at t=64.904, i=69.29
+node '7': trickle time is generated at t=68.567, i=69.29
+Node '5',53.290ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway= FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',55.691ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',55.691ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway= FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+node '8': trickle time is generated at t=116.989, i=120.00
+node '2': trickle time is generated at t=108.964, i=128.77
+node '1': trickle time is generated at t=87.074, i=101.29
+node '3': trickle time is generated at t=87.211, i=101.29
+node '4': trickle time is generated at t=98.251, i=101.29
+node '5': trickle time is generated at t=96.432, i=101.29
+node '6': trickle time is generated at t=96.908, i=101.29
+node '7': trickle time is generated at t=94.618, i=101.29
+node '5': received a new/modified message from node '1' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '5': '1' sent a modified DIO message and is a member of dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', reevaluating our neighbors
+node '5': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 16, parents = [(8), 2, 1], siblings = []
+node '5': in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', updated dodag config (i_min = 3, i_doublings = 20, c_treshold = 6, max_rank_inc = 0, min_hop_rank_inc = 0)
+node '5',Time '83.037 ms': resetting trickle timer
+Node '8',87.967ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',87.967ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',87.967ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway= FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+node '5': trickle time is generated at t=99.470, i=107.04
+node '1': trickle time is generated at t=148.244, i=165.29
+node '3': trickle time is generated at t=159.271, i=165.29
+node '4': trickle time is generated at t=136.838, i=165.29
+node '6': trickle time is generated at t=140.524, i=165.29
+node '7': trickle time is generated at t=164.825, i=165.29
+node '5': trickle time is generated at t=125.860, i=139.04
+node '8': trickle time is generated at t=207.162, i=248.00
+node '2': trickle time is generated at t=203.626, i=256.77
+node '5': trickle time is generated at t=201.690, i=203.04
+node '5': received a new/modified message from node '3' with dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C'
+node '5': '3' sent a modified DIO message and is a member of dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', reevaluating our neighbors
+node '5': chosen parents and siblings in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C': new rank = 16, parents = [(8), 2, 1, 3], siblings = []
+node '5': in dodag_id = 'FDEC:3017:E256:9BB8:1FE7:A68E:E32F:1B4C', updated dodag config (i_min = 3, i_doublings = 20, c_treshold = 6, max_rank_inc = 0, min_hop_rank_inc = 0)
+node '5',Time '162.759 ms': resetting trickle timer
+node '1': trickle time is generated at t=291.773, i=293.29
+node '3': trickle time is generated at t=262.267, i=293.29
+node '4': trickle time is generated at t=234.524, i=293.29
+node '6': trickle time is generated at t=254.967, i=293.29
+node '7': trickle time is generated at t=253.330, i=293.29
+Node '8',166.759ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',166.759ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',166.759ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+node '5': trickle time is generated at t=180.988, i=186.76
+node '5': trickle time is generated at t=203.349, i=218.76
+node '5': trickle time is generated at t=255.756, i=282.76
+node '8': trickle time is generated at t=426.589, i=504.00
+node '2': trickle time is generated at t=471.590, i=512.77
+node '5': trickle time is generated at t=379.509, i=410.76
+node '1': trickle time is generated at t=503.900, i=549.29
+node '3': trickle time is generated at t=451.567, i=549.29
+node '4': trickle time is generated at t=520.147, i=549.29
+node '6': trickle time is generated at t=450.429, i=549.29
+node '7': trickle time is generated at t=472.616, i=549.29
+node '5': trickle time is generated at t=661.064, i=666.76
+node '8': trickle time is generated at t=966.372, i=1016.00
+node '2': trickle time is generated at t=912.423, i=1024.77
+node '1': trickle time is generated at t=961.632, i=1061.29
+node '3': trickle time is generated at t=904.879, i=1061.29
+node '4': trickle time is generated at t=915.315, i=1061.29
+node '6': trickle time is generated at t=997.951, i=1061.29
+node '7': trickle time is generated at t=1022.687, i=1061.29
+node '5': trickle time is generated at t=1017.092, i=1178.76
+Node '8',1015.133ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+node '8': trickle time is generated at t=1841.650, i=2040.00
+Node '1',1020.253ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',1023.230ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',1023.230ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',1023.230ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+node '2': trickle time is generated at t=1898.321, i=2048.77
+Node '5',1031.790ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',1051.746ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',1054.147ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',1054.147ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',1054.147ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+node '1': trickle time is generated at t=1809.434, i=2085.29
+node '3': trickle time is generated at t=1598.801, i=2085.29
+node '4': trickle time is generated at t=1998.736, i=2085.29
+node '6': trickle time is generated at t=1607.502, i=2085.29
+node '7': trickle time is generated at t=2051.900, i=2085.29
+Node '1',1062.641ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',1086.490ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',1086.490ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',1086.490ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',1165.572ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',1165.572ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',1165.572ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+node '5': trickle time is generated at t=1781.646, i=2202.76
+Node '8',2013.016ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '8',2015.226ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',2015.226ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '5',2019.220ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',2021.125ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',2022.405ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',2023.846ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',2025.909ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '1',2029.606ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+node '8': trickle time is generated at t=3765.714, i=4088.00
+Node '5',2045.274ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',2047.163ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',2048.153ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+node '2': trickle time is generated at t=3486.529, i=4096.77
+Node '8',2049.244ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',2049.244ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',2052.636ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',2052.636ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',2052.636ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',2060.669ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',2060.669ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway= FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+node '1': trickle time is generated at t=3899.279, i=4133.29
+node '3': trickle time is generated at t=3644.444, i=4133.29
+node '4': trickle time is generated at t=3111.430, i=4133.29
+node '6': trickle time is generated at t=3487.539, i=4133.29
+node '7': trickle time is generated at t=4030.916, i=4133.29
+Node '8',2085.304ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',2085.304ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',2085.304ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',2165.346ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',2165.346ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',2165.346ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+node '5': trickle time is generated at t=4236.850, i=4250.76
+Node '5',2524.516ms: Route FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, prefix 128 is expired.
+Node '8',3010.809ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',3010.809ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '3',3018.782ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',3018.797ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',3022.100ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '3',3025.166ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',3027.567ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '1',3030.011ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',3044.851ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',3046.735ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',3046.735ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '1',3047.105ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',3049.620ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',3051.106ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',3051.106ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '5',3055.572ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',3059.253ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',3059.253ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',3085.717ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',3085.717ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',3166.399ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',3166.399ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',4017.743ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '3',4020.599ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',4020.629ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',4023.030ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',4027.031ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',4027.031ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '5',4032.791ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '5',4044.428ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',4046.317ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',4046.697ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',4048.398ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',4048.398ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',4051.790ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',4051.790ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',4061.258ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',4061.258ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',4085.491ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',4085.491ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+node '8': trickle time is generated at t=8009.258, i=8184.00
+node '2': trickle time is generated at t=7954.857, i=8192.77
+node '1': trickle time is generated at t=6420.733, i=8229.29
+node '3': trickle time is generated at t=7282.076, i=8229.29
+node '4': trickle time is generated at t=6438.224, i=8229.29
+node '6': trickle time is generated at t=7749.960, i=8229.29
+node '7': trickle time is generated at t=7379.918, i=8229.29
+Node '8',4164.573ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',4164.573ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+node '5': trickle time is generated at t=8227.664, i=8346.76
+Node '8',5010.752ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',5010.752ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',5012.897ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',5012.897ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',5015.796ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',5015.796ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '3',5018.896ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',5019.261ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '1',5022.302ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',5022.622ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',5028.107ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '5',5032.031ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '5',5036.352ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '5',5042.725ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',5045.254ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',5045.330ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',5049.575ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',5049.575ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',5051.656ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',5051.656ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',5055.731ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',5055.731ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',5086.224ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',5086.224ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',5164.026ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',5164.026ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',6013.857ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',6013.857ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',6017.809ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',6017.809ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',6022.599ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '1',6027.142ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',6027.433ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '3',6030.154ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',6033.369ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '5',6043.582ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',6046.100ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',6046.100ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '3',6047.071ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',6050.432ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',6050.432ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',6052.729ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',6052.729ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '1',6061.882ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',6084.077ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',6084.077ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',6165.079ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',6165.079ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',7011.074ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '8',7013.217ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',7013.217ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '3',7017.410ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',7018.126ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',7021.234ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',7021.487ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',7023.983ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',7023.983ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '5',7026.064ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',7028.688ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',7028.688ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '5',7042.519ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',7046.103ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',7046.103ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '3',7048.888ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',7051.329ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',7051.329ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '1',7054.754ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',7057.795ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',7057.795ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',7085.451ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',7085.451ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',7164.533ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',7164.533ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',8010.117ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',8010.117ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',8012.897ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',8012.897ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '5',8019.851ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',8021.787ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',8024.118ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',8025.788ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',8027.159ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',8038.435ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '5',8043.696ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',8045.585ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',8050.577ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',8052.978ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',8052.978ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '1',8055.754ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',8084.904ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',8084.904ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',8163.666ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',8163.666ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+node '8': trickle time is generated at t=16029.481, i=16376.00
+node '2': trickle time is generated at t=13888.354, i=16384.77
+node '1': trickle time is generated at t=14914.896, i=16421.29
+node '3': trickle time is generated at t=16227.564, i=16421.29
+node '4': trickle time is generated at t=14825.154, i=16421.29
+node '6': trickle time is generated at t=13211.853, i=16421.29
+node '7': trickle time is generated at t=13407.709, i=16421.29
+node '5': trickle time is generated at t=16209.846, i=16538.76
+Node '8',9013.217ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',9013.217ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',9015.530ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',9015.530ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '3',9018.164ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '3',9021.205ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',9028.282ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '1',9031.963ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',9044.202ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',9049.291ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',9049.291ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '1',9054.578ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',9084.998ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',9084.998ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',9164.720ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',9164.720ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',10011.775ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',10011.775ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',10014.325ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '3',10016.461ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',10017.542ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',10019.182ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',10020.903ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',10027.356ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '5',10031.037ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '5',10041.890ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',10044.099ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',10044.890ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',10049.731ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',10053.732ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',10053.732ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',10084.451ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',10084.451ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',10163.533ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',10163.533ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',10510.117ms: Route FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, prefix 128 is expired.
+Node '8',10510.117ms: Route FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, prefix 128 is expired.
+Node '8',11012.516ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',11012.516ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '5',11015.413ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',11017.697ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',11017.697ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',11020.529ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '1',11022.894ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',11023.938ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',11027.855ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',11031.382ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '5',11042.107ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '1',11044.482ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',11044.636ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',11047.037ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',11047.037ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',11048.803ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway= FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',11048.803ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway= FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '5',11051.228ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',11055.229ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',11055.229ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',11082.944ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',11082.944ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',11163.306ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',11163.306ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',12014.572ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '8',12019.010ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',12019.010ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '3',12022.015ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '3',12025.696ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',12026.646ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '1',12030.327ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',12039.764ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',12042.293ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',12044.714ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',12051.734ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',12051.734ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',12084.318ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',12084.318ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',12163.080ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',12163.080ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',13013.343ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',13013.343ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '3',13018.888ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',13025.288ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',13039.661ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',13042.510ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',13042.707ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',13049.908ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',13049.908ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '5',13054.670ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',13082.491ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',13082.491ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',13162.213ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',13162.213ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',13547.037ms: Route FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, prefix 128 is expired.
+Node '8',13547.037ms: Route FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, prefix 128 is expired.
+Node '8',14012.580ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '8',14015.905ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway= FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',14015.905ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway= FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '3',14018.289ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',14019.430ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '1',14022.151ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',14022.930ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',14025.825ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '5',14041.158ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',14043.047ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',14049.019ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',14049.096ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',14049.096ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',14082.585ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',14082.585ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',14161.667ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',14161.667ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '5',15013.721ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',15015.946ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',15017.422ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',15020.907ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',15022.703ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',15026.188ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',15026.188ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '5',15040.735ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',15042.624ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',15042.851ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',15048.576ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',15052.577ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',15052.577ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',15083.318ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',15083.318ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',15163.360ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',15163.360ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',15549.908ms: Route FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, prefix 128 is expired.
+Node '8',15549.908ms: Route FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, prefix 128 is expired.
+Node '8',16009.947ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '3',16015.523ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',16018.295ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',16019.204ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',16023.525ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',16023.525ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '1',16024.216ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',16027.577ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',16027.577ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '5',16038.712ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',16048.364ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',16048.364ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '3',16052.761ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',16082.131ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',16082.131ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',16163.453ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',16163.453ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+node '8': trickle time is generated at t=27214.843, i=32760.00
+node '2': trickle time is generated at t=30109.056, i=32768.77
+node '1': trickle time is generated at t=28970.224, i=32805.29
+node '3': trickle time is generated at t=28344.404, i=32805.29
+node '4': trickle time is generated at t=29465.209, i=32805.29
+node '6': trickle time is generated at t=31380.116, i=32805.29
+node '7': trickle time is generated at t=30201.214, i=32805.29
+node '5': trickle time is generated at t=31442.608, i=32922.76
+Node '8',17010.774ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway= FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',17010.774ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway= FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',17013.537ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',17013.537ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '1',17014.367ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',17017.660ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '3',17021.036ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',17021.568ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',17026.476ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '5',17037.969ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '1',17041.715ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',17042.418ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',17049.277ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',17049.277ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',17081.585ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',17081.585ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',17163.227ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',17163.227ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '5',18014.052ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',18017.557ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',18019.719ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',18021.238ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',18023.442ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '1',18032.168ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',18040.715ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',18041.627ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',18048.523ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',18048.523ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',18081.998ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',18081.998ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',18161.400ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',18161.400ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',19007.184ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',19007.184ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',19009.711ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',19009.711ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',19012.929ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',19012.929ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '1',19014.511ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '1',19020.112ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',19023.662ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '3',19026.703ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',19037.123ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',19040.932ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',19047.224ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',19047.224ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '1',19051.139ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',19082.412ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',19082.412ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',19162.454ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',19162.454ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',20012.577ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',20012.577ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '3',20016.071ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',20019.721ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '3',20021.992ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',20025.623ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',20028.392ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',20028.392ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '1',20031.544ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',20039.229ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',20041.451ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',20045.379ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',20045.379ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',20047.460ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',20047.460ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',20051.212ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',20051.212ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',20080.905ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',20080.905ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',20161.907ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',20161.907ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '3',21011.168ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',21014.224ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',21014.224ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '1',21020.095ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '1',21023.136ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',21026.832ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',21037.557ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',21039.766ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',21040.724ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',21050.198ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',21054.199ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',21054.199ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',21081.638ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',21081.638ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',21160.720ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',21160.720ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',22007.464ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',22007.464ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',22010.688ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '1',22012.967ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',22013.945ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',22016.328ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',22016.666ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',22016.666ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '5',22025.001ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',22029.146ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',22036.174ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '1',22039.676ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',22039.983ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',22041.775ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',22047.696ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',22047.696ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',22082.052ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',22082.052ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',22160.494ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',22160.494ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',22551.212ms: Route FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, prefix 128 is expired.
+Node '8',22551.212ms: Route FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, prefix 128 is expired.
+Node '8',23006.652ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '8',23013.537ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',23013.537ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '1',23015.119ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',23016.722ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',23019.760ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',23021.363ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',23023.938ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',23026.339ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',23026.339ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '5',23036.391ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',23039.880ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',23043.117ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',23043.117ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',23046.025ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',23046.025ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',23051.465ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway= FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',23051.465ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway= FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',23082.145ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',23082.145ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',23159.627ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',23159.627ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',24011.576ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '3',24013.657ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',24014.072ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '1',24017.113ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',24023.034ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '5',24026.395ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',24029.436ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',24029.436ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '5',24036.288ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',24039.457ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',24039.500ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',24045.493ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',24045.493ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '5',24047.649ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',24081.919ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',24081.919ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',24160.681ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',24160.681ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',25007.809ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',25007.809ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',25009.729ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',25009.729ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',25012.225ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',25012.225ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '3',25020.164ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',25027.379ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '3',25029.925ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',25034.905ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',25037.114ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',25041.704ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',25041.704ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',25044.322ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',25044.322ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',25052.642ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',25052.642ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '1',25054.260ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',25079.772ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',25079.772ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',25161.094ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',25161.094ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '1',26017.736ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '1',26020.777ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',26022.493ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '3',26025.534ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',26033.842ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',26036.371ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',26037.084ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',26040.211ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',26043.252ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',26043.252ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',26047.630ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',26047.630ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',26053.070ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',26053.070ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',26079.865ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',26079.865ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',26160.867ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',26160.867ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',27009.089ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',27009.089ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '1',27009.328ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',27011.947ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '8',27018.098ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',27018.098ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',27020.369ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',27020.369ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '1',27023.377ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',27026.550ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '3',27029.911ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '3',27036.268ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',27041.571ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',27041.571ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',27079.319ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',27079.319ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',27160.641ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',27160.641ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',28007.169ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',28007.169ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '3',28008.207ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',28009.560ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',28011.391ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',28014.752ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',28014.752ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',28023.522ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',28023.522ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',28027.110ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '1',28032.761ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',28035.845ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',28037.548ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',28048.487ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',28048.487ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '5',28057.477ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',28079.412ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',28079.412ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',28160.414ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',28160.414ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',29007.169ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',29007.169ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',29015.169ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',29015.169ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '3',29017.704ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',29020.992ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',29022.345ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',29024.353ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',29026.914ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '5',29032.893ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',29037.022ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',29047.198ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',29047.198ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '1',29053.780ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',29078.546ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',29078.546ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',29158.268ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',29158.268ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',30007.517ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '8',30009.729ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',30009.729ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',30011.838ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',30011.838ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '1',30014.312ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '1',30018.953ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',30022.209ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',30022.209ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '3',30024.290ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',30033.430ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',30035.639ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',30042.171ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',30042.171ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',30078.319ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',30078.319ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',30158.361ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',30158.361ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',31006.704ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',31006.704ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '3',31012.282ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',31013.456ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '1',31018.097ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',31024.233ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '5',31028.554ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',31034.576ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',31036.965ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',31040.664ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',31040.664ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',31043.053ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',31043.053ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',31050.733ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',31050.733ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',31080.012ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',31080.012ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',31159.414ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',31159.414ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '3',32008.115ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',32009.409ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',32009.409ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',32011.490ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',32011.490ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '3',32013.716ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',32014.329ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',32024.085ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '5',32031.624ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',32036.073ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',32040.118ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',32040.118ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',32080.106ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',32080.106ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',32157.588ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',32157.588ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+node '8': trickle time is generated at t=56852.744, i=65528.00
+node '2': trickle time is generated at t=63025.100, i=65536.77
+node '1': trickle time is generated at t=59245.890, i=65573.29
+node '3': trickle time is generated at t=49867.409, i=65573.29
+node '4': trickle time is generated at t=62668.821, i=65573.29
+node '6': trickle time is generated at t=51710.959, i=65573.29
+node '7': trickle time is generated at t=55720.182, i=65573.29
+node '5': trickle time is generated at t=55600.059, i=65690.76
+Node '3',33007.489ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',33009.890ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',33009.890ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '1',33020.769ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',33022.891ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',33022.891ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '1',33025.090ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',33027.491ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',33027.491ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '3',33028.668ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',33032.161ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',33035.650ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',33048.949ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',33051.030ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',33051.030ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',33079.879ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',33079.879ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',33159.601ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',33159.601ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '1',34006.153ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '1',34009.367ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',34011.768ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',34011.768ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '3',34012.609ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',34018.819ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',34018.819ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '3',34027.810ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',34030.458ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',34035.227ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',34037.981ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',34040.305ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',34040.305ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',34043.378ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',34043.378ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',34045.938ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',34045.938ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',34078.693ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',34078.693ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',34158.415ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',34158.415ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',34524.085ms: Route FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, prefix 128 is expired.
+Node '1',35007.025ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',35007.809ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',35009.106ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',35009.106ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '1',35019.666ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',35024.930ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',35032.275ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',35034.164ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',35034.373ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',35039.758ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',35039.758ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',35041.887ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',35041.887ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',35045.407ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',35045.407ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '5',35047.796ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',35079.106ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',35079.106ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',35157.548ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',35157.548ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',36002.691ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',36002.691ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '3',36011.009ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '3',36014.690ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',36024.537ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '1',36027.258ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',36031.212ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',36034.381ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',36034.605ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',36037.453ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',36039.854ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',36039.854ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',36041.995ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',36041.995ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',36045.195ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',36045.195ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',36077.279ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',36077.279ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',36157.961ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',36157.961ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',37003.425ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',37003.425ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '1',37006.209ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',37006.544ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',37006.544ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',37012.739ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',37012.739ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '3',37024.544ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '3',37027.265ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',37029.829ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '1',37032.917ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',37033.318ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',37040.504ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',37040.504ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',37042.905ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',37042.905ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',37049.784ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',37049.784ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',37077.053ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',37077.053ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',37158.695ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',37158.695ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',38006.529ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',38006.529ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '1',38006.761ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',38008.769ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',38009.162ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',38009.162ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '3',38011.243ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',38011.402ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',38014.586ms: received dao msg with new route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway= FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '5',38018.201ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '5',38028.767ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '1',38032.190ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',38032.896ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',38038.016ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',38046.177ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',38046.177ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',38078.426ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',38078.426ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',38158.468ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',38158.468ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',39006.209ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',39006.209ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '5',39008.178ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',39013.532ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',39013.532ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '1',39015.953ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',39018.369ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',39018.674ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',39018.674ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '1',39021.234ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',39022.035ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',39024.630ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '3',39031.193ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',39032.102ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '5',39036.313ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',39040.772ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',39040.772ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',39077.880ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',39077.880ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',39156.642ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',39156.642ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',40001.785ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',40001.785ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',40007.489ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',40007.489ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',40009.409ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',40009.409ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '1',40013.786ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',40017.202ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '3',40020.883ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',40026.476ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '3',40031.730ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',40033.811ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',40039.585ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',40039.585ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '1',40042.702ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',40043.069ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',40043.069ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',40045.423ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',40045.423ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',40077.013ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',40077.013ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',40155.775ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',40155.775ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '1',41003.618ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '8',41006.678ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',41006.678ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',41008.769ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',41008.769ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '5',41016.005ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',41018.797ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
+Node '3',41022.529ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',41024.676ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',41024.676ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '3',41027.490ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '1',41031.499ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',41031.627ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '5',41034.059ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB.
+Node '8',41042.538ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',41042.538ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F, gateway=FDEC:3017:E256:9BB8:1FE7:70AF:1667:AA8F.
+Node '8',41075.826ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',41075.826ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',41157.468ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:E3CE:42A6:8BCB, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',41157.468ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC, gateway=FDEC:3017:E256:9BB8:1FE7:3153:D538:F7DC.
+Node '8',42001.966ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '8',42001.966ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A, gateway=FDEC:3017:E256:9BB8:1FE7:5D32:7634:4F2A.
+Node '1',42010.250ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4, gateway=FDEC:3017:E256:9BB8:1FE7:9C5A:9572:B3E4.
+Node '3',42010.369ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97, gateway=FDEC:3017:E256:9BB8:1FE7:2DD1:59A9:AA97.
+Node '8',42014.441ms: received dao msg with old route information. dest = FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F, gateway=FDEC:3017:E256:9BB8:1FE7:88BC:825F:D50F.
